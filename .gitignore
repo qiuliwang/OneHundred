@@ -1,1 +1,3 @@
 /java/bin/
+/assets/
+.gitignore
