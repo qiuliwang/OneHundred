@@ -31,7 +31,7 @@
 终于有人给我过生日  
 ![](assets/14.jpg)  
 陪我喝酒  
-![](assets/15.jpg)  
+![](assets/15.JPG)  
 和我出去玩  
 ![](assets/16.jpg)  
 你给我改发型  
@@ -41,4 +41,4 @@
 我想给你画画  
 ![](assets/19.jpg)  
 想和你一起看日出日落  
-![](assets/20.jpg)  
+![](assets/20.JPG)  
