@@ -1,0 +1,10 @@
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\bin\Debug\OneHundred.exe.config
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\bin\Debug\OneHundred.exe
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\bin\Debug\OneHundred.pdb
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.csprojResolveAssemblyReference.cache
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.Properties.Resources.resources
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.csproj.GenerateResource.Cache
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.exe
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.pdb
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.Form1.resources
+C:\Users\WangQL\Documents\GitCode\OneHundred\WinForm\OneHundred\OneHundred\obj\Debug\OneHundred.Form2.resources
